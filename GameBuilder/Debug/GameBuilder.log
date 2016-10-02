@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  soundStart.cpp
+  TheMaze.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(212): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(347): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(360): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(370): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(385): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(389): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(401): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(405): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(417): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(421): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(434): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(438): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  clsWall.cpp
+  clsPlaySound.cpp
+  clsPlayer.cpp
+i:\projects\the maze\themaze\gamebuilder\clsplayer.cpp(72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\clsplayer.cpp(73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\clsplayer.cpp(114): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\clsplayer.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\clsplayer.cpp(119): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+i:\projects\the maze\themaze\gamebuilder\clsplayer.cpp(120): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  clsParent.cpp
+  clsBird.cpp
+  Generating Code...
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(555): warning C4715: 'DeleteWall': not all control paths return a value
+i:\projects\the maze\themaze\gamebuilder\themaze.cpp(590): warning C4715: 'DeleteEnemy': not all control paths return a value
+  GameBuilder.vcxproj -> I:\Projects\The maze\TheMaze\Debug\TheMaze.exe
